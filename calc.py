@@ -10,3 +10,7 @@ def mult(a, b):
 
 def div(a, b):
     return a/b if b!=0 else None
+
+
+def mod(a, b):
+    return a%b if b!= 0 else None
